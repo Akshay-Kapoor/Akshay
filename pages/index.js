@@ -5,7 +5,7 @@ import styles from '/styles/Home.module.css'
 export default function Home() {
   return (
       <div className='index'>
-          <h1 className='head'> Welcome to Akshay's Website</h1><br></br>
+          <h1 className='head'> Welcome to Akshay&apos;s Website</h1><br></br>
           <h4 className='bio'>Updating Actively as I try to learn and build more<br></br><br></br>
             Interested in AI, Linear Algebra, Genomics, Geopolitics, Physics, Trains, Astrophysics and Cryptography</h4><br>
             </br>

@@ -24,7 +24,7 @@ export class reading extends Component {
             <ol><h5>PAPERBACK FORM</h5> <br></br>
             
             <li>Doglapan by Ashneer Grover</li>
-            <li>The Hitchhiker's Guide to the Galaxy by Douglas Adams</li>
+            <li>The Hitchhiker&apos;s Guide to the Galaxy by Douglas Adams</li>
             <li>It Ends with Us by Colleen Hoover </li>
             <li>The Almanack of Naval Ravikant</li>
             <li>The Time Machine by H.G. Wells</li>

@@ -5,7 +5,7 @@ export class Exciting extends Component {
     return  (
         <>
       <h1>Some of the things I found exciting and may deep dive in future</h1><br></br>
-      <h3>Don't take it seriously, it&aposs just a lame list of things</h3>
+      <h3>Don&apos;t take it seriously, it&apos;s just a lame list of things</h3>
       <ul>
       <ol>
             <li>Cryonics</li>
