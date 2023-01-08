@@ -13,7 +13,7 @@ export default function Home() {
             <h3>Stuff I am Excited <a className='a' href='Exciting'>about</a></h3>
 
             <br></br>
-            <h5><time></time>Last Updated - 4 Janaury, 2023</h5>
+            <h5><time></time>Last Updated - 4 January, 2023</h5>
             <footer>© 2023 Akshay Kapoor</footer>
         </div>
   )
