@@ -1,8 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   reactStrictMode: true,
-  swcMinify: true,
-  images : "counter.digits.net"
+  swcMinify: true
 }
 
 module.exports = nextConfig
