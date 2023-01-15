@@ -10,7 +10,7 @@ export class reading extends Component {
      <ul>
 
         <ol>   <h5>PDF FORM READS</h5> <br></br>
-            <li>The Brothers Karamazov</li>
+            <li>The Brothers Karamazov (haan haan lex fridman ki controversy ki wajah se hi padh raha hoon)</li>
             <li>Cosmos by Carl Sagan</li>
             <li>Build by Tony Fadell</li>
             <li>Death of Ivan Ilych</li>
